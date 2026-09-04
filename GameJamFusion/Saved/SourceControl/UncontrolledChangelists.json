@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/biddy/OneDrive/Documents/Unreal Projects/GitProjects/GameJamFusion/Content/Maps/Map_Level1.umap",
+				"C:/Users/biddy/OneDrive/Documents/Unreal Projects/GitProjects/GameJamFusion/Content/Maps/Menu.umap",
+				"C:/Users/biddy/OneDrive/Documents/Unreal Projects/GitProjects/GameJamFusion/Content/UI/Menu_UI.uasset",
+				"C:/Users/biddy/OneDrive/Documents/Unreal Projects/GitProjects/GameJamFusion/Content/Player/BP_Player.uasset"
+			]
+		}
+	]
+}
