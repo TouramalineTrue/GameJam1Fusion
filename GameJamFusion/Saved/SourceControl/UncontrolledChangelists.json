@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/magnu/OneDrive/Documents/GameJam1Fusion/GameJamFusion/Content/Level_1.umap",
+				"C:/Users/magnu/OneDrive/Documents/GameJam1Fusion/GameJamFusion/Content/testing/Character_base.uasset",
+				"C:/Users/magnu/OneDrive/Documents/GameJam1Fusion/GameJamFusion/Content/testing/floor.uasset"
+			]
+		}
+	]
+}
