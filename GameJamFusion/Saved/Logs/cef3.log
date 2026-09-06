@@ -1,1 +1,4 @@
-[0905/130451.909:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[5916:8380:0904/185430.105:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[5916:8380:0904/185430.161:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[8660:11136:0904/185443.406:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D2BE96D015F9EA1DF55CE1DF6ECD9B6E will be ignored
+[5916:8380:0904/203134.065:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

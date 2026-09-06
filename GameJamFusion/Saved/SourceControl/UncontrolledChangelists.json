@@ -5,9 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/magnu/OneDrive/Documents/GameJam1Fusion/GameJamFusion/Content/Level_1.umap",
-				"C:/Users/magnu/OneDrive/Documents/GameJam1Fusion/GameJamFusion/Content/testing/Character_base.uasset",
-				"C:/Users/magnu/OneDrive/Documents/GameJam1Fusion/GameJamFusion/Content/testing/floor.uasset"
+				"C:/Users/biddy/OneDrive/Documents/Unreal Projects/GitProjects/GameJamFusion/Content/Maps/Map_Level1.umap",
+				"C:/Users/biddy/OneDrive/Documents/Unreal Projects/GitProjects/GameJamFusion/Content/Maps/Menu.umap",
+				"C:/Users/biddy/OneDrive/Documents/Unreal Projects/GitProjects/GameJamFusion/Content/UI/Menu_UI.uasset",
+				"C:/Users/biddy/OneDrive/Documents/Unreal Projects/GitProjects/GameJamFusion/Content/Player/BP_Player.uasset"
 			]
 		}
 	]
