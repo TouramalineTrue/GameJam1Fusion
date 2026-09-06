@@ -1,4 +1,7 @@
-[5916:8380:0904/185430.105:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[5916:8380:0904/185430.161:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[8660:11136:0904/185443.406:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D2BE96D015F9EA1DF55CE1DF6ECD9B6E will be ignored
-[5916:8380:0904/203134.065:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[0906/165253.626:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0906/165436.321:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0906/173410.627:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0906/173410.646:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0906/173410.677:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0906/173410.694:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0906/173410.697:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
