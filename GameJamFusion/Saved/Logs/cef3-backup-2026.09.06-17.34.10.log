@@ -1,0 +1,7 @@
+[0906/165253.626:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0906/165436.321:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0906/173410.627:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0906/173410.646:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0906/173410.677:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0906/173410.694:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0906/173410.697:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
